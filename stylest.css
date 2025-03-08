@@ -95,39 +95,3 @@ h1
   text-align: center;
   font-size: 25px;
 }
-
-
-a {
- 	display: inline;
- 	position: relative;
- 	}
-a:hover {
- 	color: #c00;
- 	text-decoration: none;
- 	} 
-a:hover:after {
- 	background: #lll;
- 	background: rgba(0,0,0,.8);
- 	border-radius: 5px;
- 	bottom: 18px;
- 	color: #fff;
- 	content: attr(title);
- 	display: block;
- 	left: 50%;
- 	padding: 5px 15px;
- 	position: absolute;
- 	white-space: nowrap;
- 	box-shadow: 0 0 3px #fff;
- 	z-index: 98;
- 	} 
-a:hover:before {
- 	border: solid;
- 	border-color: #lll transparent;
- 	border-width: 6px 6px 0 6px;
- 	bottom: 12px;
- 	content:"";
- 	display: block;
- 	left: 75%;
- 	position: absolute;
- 	z-index: 99;
- 	}
