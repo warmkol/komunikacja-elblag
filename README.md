@@ -1,3 +1,4 @@
+<head><title>Strona Główna - Komunikacja Elbląg</title><span style="font-family: Arial"> <font color="#363636"></head>
 Komunikacja Elbląg<br><br>
 Mapa strony:<br>
 <a href="https://warmkol.github.io/komunikacja-elblag/tabor">Tabor</a><br>
