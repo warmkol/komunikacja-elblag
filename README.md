@@ -1,3 +1,6 @@
+<head>
+<title>Elbląska komunikacja</title>
+</head>
 <b>Komunikacja Elbląg</b><br><br>
 Mapa strony:<br>
 <a href="https://warmkol.github.io/komunikacja-elblag">Mapa strony</a><br>
