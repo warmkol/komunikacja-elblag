@@ -45,7 +45,7 @@
 }
 .menu a:hover
 {
-	  color: #5ca553;
+    color: #5ca553;
     transform: scale (1,03);
     z-index: 0;
 }
@@ -134,7 +134,7 @@ a:visited {
 }
 
 a:hover {
-  color: black;
+  color: #5ca553;
   text-decoration: none;
 }
 
