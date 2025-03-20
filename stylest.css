@@ -63,7 +63,7 @@
   border-collapse: collapse;
   width: auto;
   margin: auto;
-  width: 1200px;
+  width: 1400px;
   height: 300px;
   font-size: 20px;
 }
@@ -72,11 +72,12 @@
   border-collapse: collapse;
   width: auto;
   margin: auto;
-  width: 1200px;
+  width: 1400px;
   height: 150px;
   font-size: 20px;
   text-decoration: none;
 }
+
 th, td
 {
   text-align: left;
