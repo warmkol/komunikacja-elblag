@@ -124,12 +124,12 @@ h1
 
 
 a:link {
-  color: black;
+  color: #373636;
   text-decoration: none;
 }
 
 a:visited {
-  color: black;
+  color: #373636;
   text-decoration: none;
 }
 
@@ -139,6 +139,6 @@ a:hover {
 }
 
 a:active {
-  color: black;
+  color: #373636;
   text-decoration: none;
 }
