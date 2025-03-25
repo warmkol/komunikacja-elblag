@@ -37,16 +37,16 @@
 }
 .menu a 
 {
-	color: black;
+	color: #363636;
 	text-decoration: none;
     text-align: center;
-	transition-duration: 0.4s;
+	transition-duration: 0.3s;
 	display: block;
 }
 .menu a:hover
 {
     color: #5ca553;
-    transform: scale (1,03);
+    transform: scale (1,02);
     z-index: 0;
 }
 .tabor
@@ -82,7 +82,7 @@ th, td
 {
   text-align: left;
   padding: 8px;
-  color: black;
+  color: #363636;
   text-decoration: none;
 }
 
