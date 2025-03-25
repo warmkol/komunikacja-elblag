@@ -37,9 +37,9 @@
 }
 .menu a 
 {
-	color: black;
+	color: #363636;
 	text-decoration: none;
-    text-align: center;
+        text-align: center;
 	transition-duration: 0.4s;
 	display: block;
 }
@@ -49,47 +49,7 @@
     transform: scale (1,03);
     z-index: 0;
 }
-.tabor
-{
-   padding-top: 100px;
-}
-.tabor2
-{
-   padding-top: 50px;
-   text-decoration: none;
-}
-.tabor table
-{
-  border-collapse: collapse;
-  width: auto;
-  margin: auto;
-  width: 1200px;
-  height: 300px;
-  font-size: 20px;
-}
-.tabor2 table
-{
-  border-collapse: collapse;
-  width: auto;
-  margin: auto;
-  width: 1200px;
-  height: 150px;
-  font-size: 20px;
-  text-decoration: none;
-}
-th, td
-{
-  text-align: left;
-  padding: 8px;
-}
 
-tr:nth-child(even){background-color: #f2f2f2}
-
-th
-{
-  background-color: #5ca553;
-  color: white;
-}
 h1
 {
   text-align: center;
