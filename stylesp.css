@@ -37,9 +37,9 @@
 }
 .menu a 
 {
-	color: black;
+	color: #363636;
 	text-decoration: none;
-    text-align: center;
+        text-align: center;
 	transition-duration: 0.4s;
 	display: block;
 }
