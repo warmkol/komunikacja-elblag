@@ -1,0 +1,157 @@
+.body
+{
+	margin: 0px;
+	width:100%
+}
+.ikona
+{
+	width: 210px;
+	height: 45px;
+	position: fixed;
+	margin-top: 2px;
+	margin-left: 2px;
+}
+.header
+{
+	background-color: white;
+	width: 100%;
+	box-shadow: 0px -5px 20px;
+    position: fixed;
+	z-index: 1;
+	opacity: 0.98;
+}
+.menu
+{
+	background-color: white;
+	font-size: 18px;
+	text-align: right;
+	margin-left: 100px;
+	height: 50px;
+}
+.menu > li
+{
+	display: inline-block;
+	padding-left: 6px;
+	padding-right: 6px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+.menu a 
+{
+	color: #363636;
+	text-decoration: none;
+    text-align: center;
+	transition-duration: 0.3s;
+	display: block;
+}
+.menu a:hover
+{
+    color: #5ca553;
+    transform: scale (1,02);
+    z-index: 0;
+}
+
+h1
+{
+    text-align: center;
+    font-size: 25px;
+	color: #363636;
+	text-decoration: none;
+}
+
+a:link 
+{
+  color: #363636;
+  text-decoration: none;
+}
+
+a:visited 
+{
+  color: #363636;
+  text-decoration: none;
+}
+
+a:hover 
+{
+  color: #5ca553;
+  text-decoration: none;
+}
+
+a:active 
+{
+  color: #363636;
+  text-decoration: none;
+}
+
+.sch 
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.tlo
+{
+    background-image:url(tlot.jpg);
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: blur(2px);
+	z-index: -1;
+	width: 100%;
+	opacity: 0,9;
+	padding-top: 400px;
+	left: 0;
+    right: 0;
+}
+.onas
+{
+    text-shadow: 1px 1px 15px black;
+	position: relative;
+    z-index: 0;
+	bottom: 150px;
+	width: 800px;
+	text-align: center;
+	color: #EFEFEF;
+	margin: 0 auto;
+	opacity: 0.93;
+}
+.tlor
+{
+	position: relative;
+}
+
+
+
+.gallery
+{
+  margin: 15px;
+  border-radius: 10px;
+  border: 5px solid black;
+  display: inline-block;
+  width: 400px;
+  transition: transform .5s;
+}
+
+.gallery img
+{
+  width: 100%;
+  height: auto;
+}
+
+.opis2
+{
+  font-family: Arial;
+  padding: 15px;
+  text-align: center;
+  font-size: 25px;
+}
+.opism
+{
+  font-family: Arial;
+  padding: 15px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  text-align: right;
+  font-size: 15px;
+}
