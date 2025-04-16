@@ -49,6 +49,38 @@
     transform: scale (1,02);
     z-index: 0;
 }
+
+.tlo
+{
+    background-image:url(zkm1.jpg);
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: blur(2px);
+	z-index: -1;
+	width: 100%;
+	opacity: 0,9;
+	padding-top: 400px;
+	left: 0;
+    right: 0;
+}
+.onas
+{
+    text-shadow: 1px 1px 15px black;
+	position: relative;
+    z-index: 0;
+	bottom: 150px;
+	width: 800px;
+	text-align: center;
+	color: #EFEFEF;
+	margin: 0 auto;
+	opacity: 0.93;
+}
+.tlor
+{
+	position: relative;
+}
+
 .tabor
 {
    padding-top: 100px;
