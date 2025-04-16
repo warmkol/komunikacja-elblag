@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="dsIBnf7TFK38yA6MZd7eAXbwbKEIHk-r_lz5B-D-n-s" />
 <b>Komunikacja Elbląg</b><br><br>
 <center>Mapa strony:<br>
 <a href="https://warmkol.github.io/komunikacja-elblag/stronaglowna">Strona Główna</a>
