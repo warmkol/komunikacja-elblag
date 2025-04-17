@@ -1,7 +1,9 @@
 .body
 {
 	margin: 0px;
-	width:100%
+	width: 100%;
+	font-family: Arial;
+	color: #363636;
 }
 .ikona
 {
