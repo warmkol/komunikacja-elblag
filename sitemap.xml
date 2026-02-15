@@ -3,9 +3,12 @@
   <url>
     <loc>https://warmkol.github.io/komunikacja-elblag.html</loc>
     <lastmod>2026-01-13</lastmod>
+    <priority>1</priority>
   </url>
   <url>
     <loc>https://warmkol.github.io/komunikacja-elblag/tabor.html</loc>
     <lastmod>2026-01-13</lastmod>
+    <priority>0.5</priority>
   </url>
 </urlset>
+
